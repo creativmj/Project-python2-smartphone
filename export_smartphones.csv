@@ -1,0 +1,4 @@
+nom,marque,description,prix,ram,rom,ecran,couleurs
+SAMSUNG GALAXY A23,SAMSUNG,ANDROID,200000.0,8,128,6.1,"['Noir', ' gris']"
+SAMSUNG GALAXY ZFOLD,SAMSUNG,ANDROID,600000.0,16,256,6.4,['Noir']
+TECNO CAMON 40,TECNO,ANDROID,300000.0,16,128,6.1,"['Noir', ' gris', ' bleu']"
